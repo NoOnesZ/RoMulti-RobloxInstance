@@ -1,0 +1,12 @@
+# Local settings and build products
+romulti-config.json
+romulti-config*.json.*
+.env
+.env.*
+!.env.example
+*.exe
+*.bak
+*.log
+build/
+bin/
+obj/
